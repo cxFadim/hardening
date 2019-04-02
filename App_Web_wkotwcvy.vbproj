@@ -1,0 +1,58 @@
+<VisualStudioProject>
+  <VisualBasic ProjectType="Local" ProductVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="70E1C748-EAC2-4BA6-B312-23695AC18D8F">
+    <Build>
+      <Settings ApplicationIcon="" AssemblyKeyContainerName="" AssemblyName="App_Web_wkotwcvy" AssemblyOriginatorKeyFile="" AssemblyOriginatorKeyMode="None" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="WinExe" OptionCompare="Binary" OptionExplicit="On" OptionStrict="Off" RootNamespace="App_Web_wkotwcvy" StartupObject="WindowsApplication1.Form1">
+        <Config Name="Debug" BaseAddress="285212672" ConfigurationOverrideFile="" DefineConstants="" DefineDebug="true" DefineTrace="true" DebugSymbols="true" IncrementalBuild="true" Optimize="false" OutputPath="bin\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="1" />
+        <Config Name="Release" BaseAddress="285212672" ConfigurationOverrideFile="" DefineConstants="" DefineDebug="false" DefineTrace="true" DebugSymbols="false" IncrementalBuild="false" Optimize="true" OutputPath="bin\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="1" />
+      </Settings>
+      <References>
+        <Reference Name="System.Web" AssemblyName="System.Web" HintPath="System.Web.dll" />
+        <Reference Name="App_Code" AssemblyName="App_Code" HintPath="App_Code.dll" />
+        <Reference Name="mscorlib" AssemblyName="mscorlib" HintPath="mscorlib.dll" />
+        <Reference Name="App_Web_juhheiwv" AssemblyName="App_Web_juhheiwv" HintPath="App_Web_juhheiwv.dll" />
+        <Reference Name="App_global.asax" AssemblyName="App_global.asax" HintPath="App_global.asax.dll" />
+        <Reference Name="System" AssemblyName="System" HintPath="System.dll" />
+        <Reference Name="System.Data" AssemblyName="System.Data" HintPath="System.Data.dll" />
+      </References>
+      <Imports>
+        <Import Namespace="Microsoft.VisualBasic" />
+        <Import Namespace="System" />
+        <Import Namespace="System.Collections" />
+        <Import Namespace="System.Data" />
+        <Import Namespace="System.Drawing" />
+        <Import Namespace="System.Diagnostics" />
+        <Import Namespace="System.Windows.Forms" />
+      </Imports>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="AssemblyInfo.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\Books.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\EditorialCatRecord.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\OrdersGrid.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\Login.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\AdminMenu.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\MembersRecord.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\ShoppingCartRecord.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\AdvSearch.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\BookMaint.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\OrdersRecord.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\MembersGrid.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\ShoppingCart.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\EditorialCatGrid.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\EditorialsRecord.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\Default.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\EditorialsGrid.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\MyInfo.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\CategoriesRecord.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\MembersInfo.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\AdminBooks.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\CardTypesGrid.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\BookDetail.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\Registration.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\CategoriesGrid.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="Book_Store\CardTypesRecord.vb" SubType="Code" BuildAction="Compile" />
+      </Include>
+    </Files>
+  </VisualBasic>
+</VisualStudioProject>

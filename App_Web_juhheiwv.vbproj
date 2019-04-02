@@ -1,0 +1,35 @@
+<VisualStudioProject>
+  <VisualBasic ProjectType="Local" ProductVersion="7.10.3077" SchemaVersion="2.0" ProjectGuid="EAA29FD9-73BB-46C4-AA3B-B1A87BE6A06A">
+    <Build>
+      <Settings ApplicationIcon="" AssemblyKeyContainerName="" AssemblyName="App_Web_juhheiwv" AssemblyOriginatorKeyFile="" AssemblyOriginatorKeyMode="None" DefaultClientScript="JScript" DefaultHTMLPageLayout="Grid" DefaultTargetSchema="IE50" DelaySign="false" OutputType="Library" OptionCompare="Binary" OptionExplicit="On" OptionStrict="Off" RootNamespace="App_Web_juhheiwv" StartupObject="WindowsApplication1.Form1">
+        <Config Name="Debug" BaseAddress="285212672" ConfigurationOverrideFile="" DefineConstants="" DefineDebug="true" DefineTrace="true" DebugSymbols="true" IncrementalBuild="true" Optimize="false" OutputPath="bin\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="1" />
+        <Config Name="Release" BaseAddress="285212672" ConfigurationOverrideFile="" DefineConstants="" DefineDebug="false" DefineTrace="true" DebugSymbols="false" IncrementalBuild="false" Optimize="true" OutputPath="bin\" RegisterForComInterop="false" RemoveIntegerChecks="false" TreatWarningsAsErrors="false" WarningLevel="1" />
+      </Settings>
+      <References>
+        <Reference Name="System.Web" AssemblyName="System.Web" HintPath="System.Web.dll" />
+        <Reference Name="mscorlib" AssemblyName="mscorlib" HintPath="mscorlib.dll" />
+        <Reference Name="App_global.asax" AssemblyName="App_global.asax" HintPath="App_global.asax.dll" />
+        <Reference Name="App_Code" AssemblyName="App_Code" HintPath="App_Code.dll" />
+        <Reference Name="System" AssemblyName="System" HintPath="System.dll" />
+      </References>
+      <Imports>
+        <Import Namespace="Microsoft.VisualBasic" />
+        <Import Namespace="System" />
+        <Import Namespace="System.Collections" />
+        <Import Namespace="System.Data" />
+        <Import Namespace="System.Drawing" />
+        <Import Namespace="System.Diagnostics" />
+        <Import Namespace="System.Windows.Forms" />
+      </Imports>
+    </Build>
+    <Files>
+      <Include>
+        <File RelPath="ssemblyInfo.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="ook_Store\Footer.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="ook_Store\Header.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="ook_Store\CCPager.vb" SubType="Code" BuildAction="Compile" />
+        <File RelPath="ook_Store\NavigateCompletedHandler.vb" SubType="Code" BuildAction="Compile" />
+      </Include>
+    </Files>
+  </VisualBasic>
+</VisualStudioProject>
