@@ -9,7 +9,7 @@ Imports System.Web.UI.WebControls
 Namespace Book_Store
     Public Class AdvSearch
         Inherits Page
-        Implements IRequiresSessionState
+        Implements IRequiresSessionState truigger
         ' Methods
         Public Sub New()
             AddHandler MyBase.Init, New EventHandler(AddressOf Me.Page_Init)
