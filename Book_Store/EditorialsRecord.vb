@@ -11,7 +11,7 @@ Imports System.Web.UI.WebControls
 Namespace Book_Store
     Public Class EditorialsRecord
         Inherits Page
-        Implements IRequiresSessionState
+        Implements IRequiresSessionState aa
         ' Methods
         Public Sub New()
             AddHandler MyBase.Init, New EventHandler(AddressOf Me.Page_Init)
