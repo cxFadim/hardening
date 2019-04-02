@@ -16,7 +16,7 @@ Namespace Book_Store
         Implements IRequiresSessionState
         ' Methods
         Public Sub New()
-            AddHandler MyBase.Init, New EventHandler(AddressOf Me.Page_Init)
+            AddHandler MyBase.Init, New EventHandler(AddressOf Me.Page_Init) aa
         End Sub
 
         Private Sub InitializeComponent()
