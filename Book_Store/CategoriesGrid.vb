@@ -12,7 +12,7 @@ Imports System.Web.UI.WebControls
 
 Namespace Book_Store
     Public Class CategoriesGrid
-        Inherits Page
+        Inherits Page latest
         Implements IRequiresSessionState
         ' Methods
         Public Sub New()
